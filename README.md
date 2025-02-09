@@ -14,4 +14,4 @@ Place `day.csv` in the `data/` folder.
 ## 🛠️ Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/Bike-Rental-Prediction.git
+   git clone https://github.com/2005leo/Bike-Rental-Prediction.git
