@@ -15,3 +15,7 @@ Place `day.csv` in the `data/` folder.
 1. Clone the repo:
    ```bash
    git clone https://github.com/2005leo/Bike-Rental-Prediction.git
+   
+pip install -r requirements.txt  
+
+jupyter notebook notebooks/bike_rental_prediction.ipynb  
